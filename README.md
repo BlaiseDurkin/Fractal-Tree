@@ -1,2 +1,4 @@
-# Fractal-Tree
-3 conjoined fractal trees using the golden ratio
+# Fractal-Tree in Python
+Draws 3 conjoined fractal trees using Python graphics library.
+
+Make sure you have installed the graphics library and math library installed.
